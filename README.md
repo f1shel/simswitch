@@ -16,7 +16,7 @@ Deformable Notes: (coming...)
 
 + Stable fluid
 
-  <img src="./assets/201_stable.gif" />
+  <img src="./assets/201_stable_sm.gif" />
 
 + PIC/FLIP/PIC-FLIP/APIC
 
@@ -24,7 +24,7 @@ Deformable Notes: (coming...)
 
 + MPM-rigid two-way coupling
 
-  <img src="./assets/201_coupling.gif" />
+  <img src="./assets/201_coupling_sm.gif" />
 
 ## GAMES 103 (may take several seconds to load GIF)
 
@@ -42,5 +42,5 @@ Deformable Notes: (coming...)
 
 + Shallow wave
 
-  <img src="./assets/103_wave.gif" />
+  <img src="./assets/103_wave_sm.gif" />
 
