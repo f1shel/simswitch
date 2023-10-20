@@ -1,0 +1,12 @@
+*.ipynb
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+rubbish/
+.metals/
+.vscode/
+material_point_method/
+material_point_method/unstable/
+material_point_method/results/
+material_point_method/imgui.ini
+particle_in_cell/
+stable_fluid/
